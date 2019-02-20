@@ -37,7 +37,11 @@
     "@feathersjs/socketio": "^3.2.7",
     "compression": "^1.7.3",
     "cors": "^2.8.5",
+    "feathers-objection": "^2.0.0",
     "helmet": "^3.15.0",
+    "knex": "^0.16.3",
+    "mysql2": "^1.6.5",
+    "objection": "^1.4.0",
     "serve-favicon": "^2.5.0",
     "winston": "^3.0.0"
   },
